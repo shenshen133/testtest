@@ -1,0 +1,8 @@
+# nothing
+title: this-is-a-title
+author: value
+email: 123@gmail.com
+
+# ignore
+markdown: kramdown
+theme: minima
