@@ -2,8 +2,8 @@
 title: this-is-a-title
 author: author
 email: 123@gmail.com
-twitter_username:potus
-github_username:shenshen133
+twitter_username: potus
+github_username: shenshen133
 
 # build settings
 markdown: kramdown
