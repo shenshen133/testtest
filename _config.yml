@@ -1,10 +1,10 @@
 # nothing
 title: this-is-a-title
-author: value
+author: author
 email: 123@gmail.com
-twitter_username:liii
-github_username:yoyoyoyo
+twitter_username:potus
+github_username:shenshen133
 
-# ignore
+# build settings
 markdown: kramdown
 theme: minima
